@@ -3,13 +3,12 @@ package day10_Loops;
 import java.util.Scanner;
 
 public class WhileLoop04 {
-    *
-    Type java code by using while loop,
-    Write a program to count the factors of an integer which is entered by user.
-    Factors of 12 = 1, 2, 3, 4, 6, 12 ==> 6
-    Factors of 8  = 1, 2, 4, 8 ==> 4
-            */
-
+    /*
+            Type java code by using while loop,
+           Write a program to count the factors of an integer which is entered by user.
+           Factors of 12 = 1, 2, 3, 4, 6, 12 ==> 6
+           Factors of 8  = 1, 2, 4, 8 ==> 4
+       */
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
